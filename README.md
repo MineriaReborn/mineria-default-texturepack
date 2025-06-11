@@ -1,4 +1,4 @@
-# Pack de Personnalisation Mineria
+# Pack de textures Mineria
 
 Bienvenue sur **Mineria** !
 
